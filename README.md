@@ -2,11 +2,11 @@
 
 # 👋 Olá, eu sou Cauê Vinícius Silva!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia+%F0%9F%9A%80;Estudante+de+ADS+na+FATEC+%F0%9F%8E%93;Desenvolvedor+em+constante+evolução+💡" alt="Typing SVG" />
-
+---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" />
 </div>
 
----
 
 <div align="center">
 
