@@ -23,7 +23,6 @@
 - 👋 Olá, me chamo **Cauê Vinícius Silva**
 - 💡 Sou apaixonado por **tecnologia e inovações tecnológicas**
 - 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Dr. Thomaz Novelino**
-- 🚀 Espero no futuro colaborar em **projetos importantes e inovadores**
 - 📫 Como me encontrar: **viniciuscaue196@gmail.com**
 
 ---
